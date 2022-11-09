@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointOne</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\udhayk\Desktop\data.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2022-09-06T17:12:10.763</taken-date>
+   <column-names>
+      <column-name>Admin</column-name>
+      <column-name>admin123</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Admin1",
+      "checked": false
+    },
+    {
+      "value": "admin23",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Admin2",
+      "checked": false
+    },
+    {
+      "value": "admin24",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Admin3",
+      "checked": false
+    },
+    {
+      "value": "admin25",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Admin4",
+      "checked": false
+    },
+    {
+      "value": "admin26",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "fbg",
+      "checked": false
+    },
+    {
+      "value": "ht",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "yh",
+      "checked": false
+    },
+    {
+      "value": "hh",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
